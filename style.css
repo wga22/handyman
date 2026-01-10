@@ -72,3 +72,35 @@ footer {
     bottom: 0;
     width: 100%;
 }
+
+/* Image Classes */
+.hero-logo {
+    max-width: 100%;
+    height: auto;
+    display: block;
+    margin: 0 auto;
+}
+
+.owner-photo-home {
+    max-width: 300px;
+    height: auto;
+    float: right;
+    margin: 10px;
+}
+
+.service-image {
+    max-width: 100%;
+    height: auto;
+    margin-bottom: 20px;
+}
+
+.contact-photo {
+    max-width: 300px;
+    height: auto;
+}
+
+.testimonial-image {
+    max-width: 100%;
+    height: auto;
+    margin-bottom: 20px;
+}
