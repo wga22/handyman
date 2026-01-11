@@ -75,7 +75,7 @@ footer {
 
 /* Image Classes */
 .hero-logo {
-    max-width: 100%;
+    max-width: 400px;
     height: auto;
     display: block;
     margin: 0 auto;
@@ -89,18 +89,18 @@ footer {
 }
 
 .service-image {
-    max-width: 100%;
+    max-width: 400px;
     height: auto;
     margin-bottom: 20px;
 }
 
 .contact-photo {
-    max-width: 300px;
+    max-width: 100px;
     height: auto;
 }
 
 .testimonial-image {
-    max-width: 100%;
+    max-width: 100px;
     height: auto;
     margin-bottom: 20px;
 }
